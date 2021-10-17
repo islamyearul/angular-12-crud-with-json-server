@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "retet",
+      "lastname": "retret",
+      "email": "gdgfg",
+      "mobile": 643643,
+      "salary": 6436546
+    },
+    {
+      "id": 2,
+      "firstname": "tretret",
+      "lastname": "rtret",
+      "email": "6trtsdg",
+      "mobile": 43543643,
+      "salary": 4543543
+    },
+    {
+      "id": 3,
+      "firstname": "etewtwetwe",
+      "lastname": "tewtewtwet",
+      "email": "sdfgsdg",
+      "mobile": 54352354,
+      "salary": 5434543
+    },
+    {
+      "id": 4,
+      "firstname": "ewewt",
+      "lastname": "etwet",
+      "email": "fdfew",
+      "mobile": 4352435,
+      "salary": 435435
+    },
+    {
+      "id": 5,
+      "firstname": "islam",
+      "lastname": "regwrege",
+      "email": "gfdgsg",
+      "mobile": 34562436,
+      "salary": 456234643
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
